@@ -1,0 +1,14 @@
+.frontpage-title-container > h1, h5 {
+text-align: left;
+
+overflow: hidden;
+}
+.yellow-box {
+    background-color: #F4EA56;
+    align-self: flex-start;
+    width: 200%;
+    height: 260px;
+}
+h5 {
+    text-indent: 10%;
+}
