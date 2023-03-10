@@ -11,8 +11,9 @@ function FrontPage({ booksFull, postBook }) {
     fetch("/api/books")
       .then((response) => response.json())
       .then((data) => setBooks(data.booksFull));
-  }, []);
-
+  }, [])
+  
+ 
   return (
     <div className="front-page">
       <div className="yellow-box"></div>
