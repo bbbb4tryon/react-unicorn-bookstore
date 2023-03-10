@@ -1,0 +1,68 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "coverUrl": "https://covers.openlibrary.org/b/olid/OL30192292M-M.jpg",
+      "title": "Pretty Little Wife",
+      "author": "Kane, Darby",
+      "genre": "Mystery",
+      "backOfBook": "thriller",
+      "emotion": "tightShoulders",
+      "povOrNarrator": "untrustworthyNarrator",
+      "heroOrAntiHero": "antiHero",
+      "niceAntagonistOrNot": "badAntagonist",
+      "description": "description",
+      "wildcard": ""
+    },
+    {
+      "id": 2,
+      "coverUrl": "https://covers.openlibrary.org/b/olid/OL27241981M-M.jpg",
+      "title": "Starship Troopers",
+      "author": "Heinlein, Robert",
+      "genre": "Scifi",
+      "backOfBook": "war",
+      "emotion": "aliensAndMorality",
+      "povOrNarrator": "wryNarrator",
+      "heroOrAntiHero": "hero",
+      "niceAntagonistOrNot": "badAntagonist",
+      "description": "description",
+      "wildcard": ""
+    },
+    {
+      "id": 3,
+      "coverUrl": "https://covers.openlibrary.org/b/olid/OL25433160M-M.jpg",
+      "title": "Tai-Pan",
+      "author": "Clavell, James",
+      "genre": "Historical Fiction",
+      "backOfBook": "saga",
+      "emotion": "likeFamily",
+      "povOrNarrator": "multiplePOV",
+      "heroOrAntiHero": "hero",
+      "niceAntagonistOrNot": "goodAntagonist",
+      "description": "description",
+      "wildcard": ""
+    },
+    {
+      "id": 4,
+      "coverUrl": "https://covers.openlibrary.org/b/olid/OL27102096M-M.jpg",
+      "title": "Good Omens",
+      "author": "Gaiman, Neil; Terry Pratchett",
+      "genre": "Fantasy",
+      "backOfBook": "funny saga",
+      "emotion": "likeFamily",
+      "povOrNarrator": "multiplePOV",
+      "heroOrAntiHero": "antiHero",
+      "niceAntagonistOrNot": "goodAntagonist",
+      "description": "description",
+      "wildcard": ""
+    },
+    {
+      "id": 5,
+      "coverUrl": "https://covers.openlibrary.org/b/olid/OL23235509M-M.jpg",
+      "title": "Battle Royale",
+      "author": "Kōshun Takami",
+      "genre": "fiction",
+      "isbn": "9781421565989"
+    }
+  ]
+}
