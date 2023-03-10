@@ -15,6 +15,7 @@ function FrontPage({ booksFull, postBook }) {
 
   return (
     <div className="front-page">
+      <div className="yellow-box"></div>
       <h1>Find Your Unicorn Among the Horses</h1>
       <h5>
         Book Recommendations Based Upon the “Unicorn” Qualities of Any Novel
