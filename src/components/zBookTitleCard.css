@@ -1,0 +1,36 @@
+.book-title-card {
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    border-radius: 4px;
+}
+
+.cover-image {
+    width: 150px;
+    height: 200px;
+    background-position: center;
+    background-size: cover;
+    border-radius: 4px 0 0 4px;
+}
+
+.book-info {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 20px;
+}
+
+.book-title {
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+
+.book-author {
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+
+.book-price {
+    font-weight: bold;
+}
