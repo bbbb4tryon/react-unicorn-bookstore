@@ -19,7 +19,7 @@ function BookCarousel({ books }) {
   const bookCovers = books.map((book) => {
     // Get the URL of the book cover image from the book object
     const coverUrl = book.coverUrl;
-    console.log(book)
+
     // Return a BookCover component with the book cover image as a prop
     return <BookCover key={book.id} coverUrl={coverUrl} />;
   });
