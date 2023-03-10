@@ -1,14 +1,18 @@
-.frontpage-title-container > h1, h5 {
-text-align: left;
+ /* descendant selector .frontpage-title-container h5instead of.frontpage-title-container>h5. This will apply the style to all h5elements that are descendants of.frontpage-title-container, */
 
-overflow: hidden;
+.frontpage-title-container>h1,
+.frontpage-title-container h5 {
+    text-align: left;
+    overflow: hidden;
 }
+
 .yellow-box {
     background-color: #F4EA56;
     align-self: flex-start;
     width: 200%;
     height: 260px;
 }
-h5 {
+
+.frontpage-title-container h5 {
     text-indent: 10%;
 }
